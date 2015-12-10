@@ -1,7 +1,5 @@
 #!/usr/bin/perl -w
-# Jean Michael Almonte
-# CS390 - Programming assignment 4
-# November 24, 2015
+# Safely ask user if they want to btfo their directory
 
 if (@ARGV)
 {
